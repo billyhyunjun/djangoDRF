@@ -26,7 +26,7 @@ SECRET_KEY = config.DJANGO_SECRET_KEY
 OPEN_API_KEY = config.OPEN_API_KEY
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     "43.203.118.2",
